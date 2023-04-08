@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DBMSProject/static/css/main.cebdf0a1.css",
+    "main.js": "/DBMSProject/static/js/main.6156b3d5.js",
+    "static/js/787.d3a2fcae.chunk.js": "/DBMSProject/static/js/787.d3a2fcae.chunk.js",
+    "index.html": "/DBMSProject/index.html",
+    "main.cebdf0a1.css.map": "/DBMSProject/static/css/main.cebdf0a1.css.map",
+    "main.6156b3d5.js.map": "/DBMSProject/static/js/main.6156b3d5.js.map",
+    "787.d3a2fcae.chunk.js.map": "/DBMSProject/static/js/787.d3a2fcae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cebdf0a1.css",
+    "static/js/main.6156b3d5.js"
+  ]
+}
